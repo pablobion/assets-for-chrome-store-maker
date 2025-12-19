@@ -1,0 +1,5 @@
+{
+  "name": "Chrome Store Asset Generator",
+  "description": "A professional tool to crop, resize, and generate essential assets for Chrome Web Store extensions with precise dimensions.",
+  "requestFramePermissions": []
+}
