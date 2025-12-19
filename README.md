@@ -1,3 +1,6 @@
+# Chrome Store Asset Generator
+
+Uma ferramenta profissional para recortar, redimensionar e gerar assets essenciais para extensões da Chrome Web Store com dimensões precisas.
 
 ## Run Locally
 
